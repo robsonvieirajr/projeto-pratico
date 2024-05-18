@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+}
+
+.navbar-brand, .nav-link {
+    font-weight: bold;
+    color: #6c4a31 !important;
+}
+
+.navbar {
+    background-color: #deb887;
+    border-bottom: 2px solid #8b4513;
+}
+
+.rustic-container {
+    background-color: #fffaf0;
+    border: 2px solid #8b4513;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.rustic-header {
+    font-family: 'Georgia', serif;
+    color: #6c4a31;
+    text-shadow: 1px 1px 2px #8b4513;
+}
+
+.rustic-paragraph {
+    font-family: 'Georgia', serif;
+    color: #6c4a31;
+}
